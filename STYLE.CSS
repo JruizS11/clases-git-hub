@@ -7,7 +7,6 @@ font-size: 16px;
 margin: 0;
 padding: 0;
 }
-
 #cabecera
 {
 background:blue;
@@ -18,14 +17,12 @@ font-weight: bold;
 margin: 0;
 padding: 0.5em;
 }
-
 #cabecera #tagline
 {
 padding: 0 0 0 1em;
 font-weight: normal;
 font-size: 0 8em;
 }
-
 #container
 {
 width: 70%;
@@ -33,5 +30,4 @@ padding: 0;
 text-align: left;
 border: 1px solid black;
 margin: 0 auto;
-
 }
