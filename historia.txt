@@ -1,6 +1,11 @@
 Esta es la historia de Fredy vegas
 fredy tiene 32 años y nacio en Colombia
 Anita es una persona que constribuye a este programa
+EXPERIMENTO 1
 MASTER 1
+<<<<<<< HEAD
 master 2
+=======
+
+>>>>>>> 8530e90... EXPERIMENTO 1
 mañana nos enfocaremos en su vida laboral
